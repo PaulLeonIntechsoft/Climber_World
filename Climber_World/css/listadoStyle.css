@@ -1,0 +1,48 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+/*
+.btn{
+    background-color: rgba(255, 255, 255, 0.63);
+}*/
+
+.fila1{
+    height: 10vh;
+}
+
+.fila2{
+    height: 10vh;
+}
+
+.fila3{
+    height: 70vh;
+}
+
+.fila4{
+    height: 10vh;
+}
+
+table{
+    background-color: rgba(23, 162, 184, 0.13);
+}
+
+thead{
+    background-color: rgba(23, 162, 184, 0.50);
+}
+
+tbody{
+    background-color: rgba(23, 162, 184, 0.18);
+}
+.fixed-bottom{
+    /*background-color: red;*/
+}
+
+.pequenio{
+    max-height: 5px;
+    padding-right: 3vw;
+    color: white;
+}

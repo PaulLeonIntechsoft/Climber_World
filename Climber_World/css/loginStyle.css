@@ -1,0 +1,39 @@
+.login-form-container{
+    /*background-color: rgba(23, 162, 184, 0.10);*/
+    border-radius: 10px;
+    padding: 50px 10px;
+    padding-bottom: 5px;
+}
+
+body{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+.img-container{
+    width: 100%;
+    margin-top: -80px;
+    margin-bottom: -50px;
+    padding: 80px;
+}
+
+#img1{
+    width: 100%;
+}
+
+#img2{
+    width: 100%;
+    max-width: 90px;
+}
+.fixed-bottom{
+    /*background-color: red;*/
+}
+
+.pequenio{
+    max-height: 5px;
+    padding-right: 3vw;
+    color: white;
+}
